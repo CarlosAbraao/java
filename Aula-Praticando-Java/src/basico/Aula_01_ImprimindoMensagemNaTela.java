@@ -1,4 +1,4 @@
-package Básico;
+package basico;
 
 
 public class Aula_01_ImprimindoMensagemNaTela {
