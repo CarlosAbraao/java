@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 
  * OPERAÇÕES BÁSICAS DA PROGRAMÇÃO ENTRADA, PROCESSAMENTO E SAIDA
  * 
- * 					VAMOS VER COMO FUNCIONA O PROCESSAMENTO?
+ * 					VAMOS VER COMO FUNCIONA A ENTRADA DE DADOS?
  **/
 
 public class Aula_04_3_Entrada_Processamento_Saida_De_Dados {
