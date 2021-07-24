@@ -1,0 +1,12 @@
+Aula_3_OperadoresBasicos/Operators.java
+ Aula_3_OperadoresBasicos.Operators
+Aula_2_Variaveis/CreatingVariables.java
+ Aula_2_Variaveis.CreatingVariables
+Aula_1_PrimeiroPrograma/FirstProgramTest.java
+ Aula_1_PrimeiroPrograma.FirstProgramTest
+Aula_4_OperadoresRelacionaisLogicos/Operator.java
+ Aula_4_OperadoresRelacionaisLogicos.Operator
+Aula_5_Condicionais/Conditionals.java
+ Aula_5_Condicionais.Conditionals
+Aula_5_Condicionais2/Conditionals.java
+ Aula_5_Condicionais2.Conditionals
