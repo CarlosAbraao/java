@@ -8,8 +8,12 @@ public class HelloWord {
 		
 		System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
 		
+		
+		//CHAMADO ATRAVES DE UM METODO
+		
 		System.out.println(hello());
 		
+	
 		
 
 	}
@@ -19,6 +23,8 @@ public class HelloWord {
 		
 		return "Olá Mundo";
 	}
+	
+
 
 }
 
