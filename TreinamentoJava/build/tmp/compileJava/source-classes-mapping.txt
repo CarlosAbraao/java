@@ -61,3 +61,21 @@ Aula_1_PrimeiroPrograma/FirstProgramTest.java
  Aula_1_PrimeiroPrograma.FirstProgramTest
 Aula_15_TreeSet/ExTreeSet.java
  Aula_15_TreeSet.ExTreeSet
+Aula_26_Functions/Funcao.java
+ Aula_26_Functions.Funcao
+Aula_27_Predicados/Predicados.java
+ Aula_27_Predicados.Predicados
+Aula_28_Suplidores/SuplidoresEx.java
+ Aula_28_Suplidores.Pessoa
+ Aula_28_Suplidores.SuplidoresEx
+Aula_29_Iteracoes/IteracoesEx.java
+ Aula_29_Iteracoes.IteracoesEx
+Aula_29_IteracoesComNumeros/IteracoesNumeros.java
+ Aula_29_IteracoesComNumeros.IteracoesNumeros
+Aula_30_StreamDeOutraForma/StreamList.java
+ Aula_30_StreamDeOutraForma.StreamList
+Aula_33_Thread/ExThread.java
+ Aula_33_Thread.BarraDeCarregamento
+ Aula_33_Thread.Carregamento2
+ Aula_33_Thread.ExThread
+ Aula_33_Thread.GerarPdf
