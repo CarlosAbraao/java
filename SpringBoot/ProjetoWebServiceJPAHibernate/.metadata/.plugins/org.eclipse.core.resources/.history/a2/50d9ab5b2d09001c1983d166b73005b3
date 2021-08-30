@@ -1,0 +1,5 @@
+package com.projetoweb.democarlos.entities;
+
+public class User {
+
+}
