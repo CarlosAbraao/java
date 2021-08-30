@@ -7201,3 +7201,117 @@ java.io.IOException: O sistema não pode encontrar o arquivo especificado
 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
 	at java.base/java.lang.Thread.run(Thread.java:831)
+
+!ENTRY org.eclipse.osgi 4 0 2021-08-29 22:16:14.844
+!MESSAGE Error reading configuration: O sistema não pode encontrar o arquivo especificado
+!STACK 0
+java.io.IOException: O sistema não pode encontrar o arquivo especificado
+	at java.base/java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.base/java.io.File.createTempFile(File.java:2143)
+	at org.eclipse.osgi.storagemanager.StorageManager.initializeInstanceFile(StorageManager.java:201)
+	at org.eclipse.osgi.storagemanager.StorageManager.open(StorageManager.java:722)
+	at org.eclipse.osgi.storage.Storage.getChildStorageManager(Storage.java:2266)
+	at org.eclipse.osgi.storage.Storage.save0(Storage.java:1336)
+	at org.eclipse.osgi.storage.Storage.save(Storage.java:1308)
+	at org.eclipse.osgi.internal.framework.StorageSaver$StorageSaverTask.run(StorageSaver.java:31)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+!ENTRY org.eclipse.osgi 4 0 2021-08-29 22:16:14.845
+!MESSAGE Error saving on update
+!STACK 0
+java.io.IOException: O sistema não pode encontrar o arquivo especificado
+	at java.base/java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.base/java.io.File.createTempFile(File.java:2143)
+	at org.eclipse.osgi.storagemanager.StorageManager.initializeInstanceFile(StorageManager.java:201)
+	at org.eclipse.osgi.storagemanager.StorageManager.open(StorageManager.java:722)
+	at org.eclipse.osgi.storage.Storage.getChildStorageManager(Storage.java:2266)
+	at org.eclipse.osgi.storage.Storage.save0(Storage.java:1336)
+	at org.eclipse.osgi.storage.Storage.save(Storage.java:1308)
+	at org.eclipse.osgi.internal.framework.StorageSaver$StorageSaverTask.run(StorageSaver.java:31)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+!ENTRY org.eclipse.osgi 4 0 2021-08-29 22:16:44.850
+!MESSAGE Error reading configuration: O sistema não pode encontrar o arquivo especificado
+!STACK 0
+java.io.IOException: O sistema não pode encontrar o arquivo especificado
+	at java.base/java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.base/java.io.File.createTempFile(File.java:2143)
+	at org.eclipse.osgi.storagemanager.StorageManager.initializeInstanceFile(StorageManager.java:201)
+	at org.eclipse.osgi.storagemanager.StorageManager.open(StorageManager.java:722)
+	at org.eclipse.osgi.storage.Storage.getChildStorageManager(Storage.java:2266)
+	at org.eclipse.osgi.storage.Storage.save0(Storage.java:1336)
+	at org.eclipse.osgi.storage.Storage.save(Storage.java:1308)
+	at org.eclipse.osgi.internal.framework.StorageSaver$StorageSaverTask.run(StorageSaver.java:31)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+!ENTRY org.eclipse.osgi 4 0 2021-08-29 22:16:44.852
+!MESSAGE Error saving on update
+!STACK 0
+java.io.IOException: O sistema não pode encontrar o arquivo especificado
+	at java.base/java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.base/java.io.File.createTempFile(File.java:2143)
+	at org.eclipse.osgi.storagemanager.StorageManager.initializeInstanceFile(StorageManager.java:201)
+	at org.eclipse.osgi.storagemanager.StorageManager.open(StorageManager.java:722)
+	at org.eclipse.osgi.storage.Storage.getChildStorageManager(Storage.java:2266)
+	at org.eclipse.osgi.storage.Storage.save0(Storage.java:1336)
+	at org.eclipse.osgi.storage.Storage.save(Storage.java:1308)
+	at org.eclipse.osgi.internal.framework.StorageSaver$StorageSaverTask.run(StorageSaver.java:31)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+!ENTRY org.eclipse.osgi 4 0 2021-08-29 22:17:14.857
+!MESSAGE Error reading configuration: O sistema não pode encontrar o arquivo especificado
+!STACK 0
+java.io.IOException: O sistema não pode encontrar o arquivo especificado
+	at java.base/java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.base/java.io.File.createTempFile(File.java:2143)
+	at org.eclipse.osgi.storagemanager.StorageManager.initializeInstanceFile(StorageManager.java:201)
+	at org.eclipse.osgi.storagemanager.StorageManager.open(StorageManager.java:722)
+	at org.eclipse.osgi.storage.Storage.getChildStorageManager(Storage.java:2266)
+	at org.eclipse.osgi.storage.Storage.save0(Storage.java:1336)
+	at org.eclipse.osgi.storage.Storage.save(Storage.java:1308)
+	at org.eclipse.osgi.internal.framework.StorageSaver$StorageSaverTask.run(StorageSaver.java:31)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+!ENTRY org.eclipse.osgi 4 0 2021-08-29 22:17:14.859
+!MESSAGE Error saving on update
+!STACK 0
+java.io.IOException: O sistema não pode encontrar o arquivo especificado
+	at java.base/java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.base/java.io.File.createTempFile(File.java:2143)
+	at org.eclipse.osgi.storagemanager.StorageManager.initializeInstanceFile(StorageManager.java:201)
+	at org.eclipse.osgi.storagemanager.StorageManager.open(StorageManager.java:722)
+	at org.eclipse.osgi.storage.Storage.getChildStorageManager(Storage.java:2266)
+	at org.eclipse.osgi.storage.Storage.save0(Storage.java:1336)
+	at org.eclipse.osgi.storage.Storage.save(Storage.java:1308)
+	at org.eclipse.osgi.internal.framework.StorageSaver$StorageSaverTask.run(StorageSaver.java:31)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:831)
